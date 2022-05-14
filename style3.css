@@ -1,0 +1,67 @@
+body{
+	background-image: url(https://lavenderhotels.co.ke/accounts/eoffice/assets/loginBackground.jpg);
+	
+}
+.nen {
+	background-color: white;
+	width: 420px;
+	height: 700px;
+	margin: 0 auto;
+	margin-top: 29px;
+}
+.nen img{
+	width: 238.28px;
+	height: 72px;
+	margin-top: 36px;
+	margin-left: 91px;
+	vertical-align: middle;
+}
+.nen h2{
+	text-align: center;
+	margin-top: 30px;
+}
+.nen button{
+	height: 41.6px;
+	width: 356px;
+	margin-left: 35px;
+	margin-top: 15px;
+	cursor: pointer;
+}
+.nen .hoac{
+	text-align: center;
+	font-size: 19px;
+	margin-top: 20px;
+}
+.nen .aaa{
+	margin-left: 35px;
+	margin-top: 15px;
+}
+.nen input{
+	width: 356px;
+	height: 41.6px;
+	margin-top: 15px;
+	padding-left: 10px;
+	border-radius: 5px;
+	border-width: 1px;
+}
+.nen a{
+	color: #2196F3;
+	float: right;
+	margin-right: 20px;
+	margin-top: 20px;
+	text-decoration: none;
+	font-size: 17px;
+}
+.nen .dangnhap{
+	margin-left: 37px;
+	background-color: #2196F3; 
+	color: white;
+	font-size: 18px;
+	border-radius: 5px;
+	border-width: 1px;
+}
+.nen a .dangki{
+	margin-right: 130px;
+	color: #2196F3;
+	font-size: 20px;
+}

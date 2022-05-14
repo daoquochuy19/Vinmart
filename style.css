@@ -1,0 +1,153 @@
+body{
+	padding: 0px !important;
+	margin: 0px !important;
+	background-color: #F3F4F5;
+}
+.container{
+	width: 100%;
+}
+.header{
+	width: 100%;
+	height: 160px;
+	background-color: #CE0000;
+}
+.content{
+	width: 100%;
+	text-align: center;
+}
+.menu{
+	width: 90%;
+	height: 130px;
+	background-color: #CE0000;
+	margin: 0 auto;
+}
+.menu0{
+	width: 100%;
+	height: 50px;
+	background-color: #F3F4F5;
+	margin: 0 auto;
+}
+.search{
+	height: 40px;
+	width: 550px;
+	background-color: white;
+	border-radius: 5px;
+	margin-top: 0px;
+}
+.search input{
+	width: 480px;
+	height: 36px;
+	border: 0px;
+	padding-left: 20px;
+}
+.menu ul{
+	list-style: none;
+	margin-top: 0px;
+}
+.menu ul li{
+	display: inline-block;
+	padding: 20px;
+}
+.menu ul li a{
+	text-decoration: none;
+	font-size: 15px;
+	font-weight: bold;
+	color: white;
+}
+.menu ul li a img{
+	vertical-align: middle;
+}
+.menu0 ul li a{
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 15px;
+	color: black;
+}
+.menu0 ul li a img{
+	vertical-align: middle;
+}
+.menu0 ul{
+	list-style: none;
+}
+.menu0 ul li{
+	display: inline-block;
+}
+.menu0 ul.left{
+	text-decoration: none;
+	font-size: 15px;
+	font-weight: bold;
+	color: white;
+	float: left;
+}
+.menu0 ul.right{
+	text-decoration: none;
+	font-size: 15px;
+	font-weight: bold;
+	color: white;
+	float: right;
+}
+.menu0 ul li a img{
+	height: 32px;
+	width: 27px;
+}
+.search button img{
+	width: 25px;
+	height: 27px;
+	vertical-align: middle;
+}
+.body2{
+	width: 90%;
+	margin: 0 auto;
+}
+.body2 img{
+	display: inline-block;
+}
+.body2 h1{
+	color: red;
+	font-size: 30px;
+	font-weight: bold;
+	float: left;
+}
+.body3{
+	background-color: white;
+	width: 80%;
+	height: 420px;
+	display: inline-block;
+	list-style-type: none;
+	margin: 20px auto;
+}
+.body3 .up {
+	width: 100%;
+	height: 80%;
+}
+.body3 .down {
+	width: 100%;
+	height: 20%;
+}
+.item img{
+	width: 180px;
+	height: 200px;
+	padding: 20px;
+}
+.item {
+	cursor: pointer;
+	display: inline-block;
+}
+.item button{
+	cursor: pointer;
+	border: red;
+	height: 35px;
+	font-weight: bold;
+	background-color: red;
+	color: white;
+}
+.down button{
+	background: #fff !important;
+    text-transform: initial;
+    color: #bd1b1b !important;
+    border: 1px solid #bd1b1b;
+    min-width: 200px !important;
+    height: 37px;
+    cursor: pointer;
+    margin-top: 30px;
+}

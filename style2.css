@@ -1,0 +1,170 @@
+body{
+	padding: 0px !important;
+	margin: 0px !important;
+	background-color: #F3F4F5;
+}
+.container{
+	width: 100%;
+}
+.header{
+	width: 100%;
+	height: 160px;
+	background-color: #CE0000;
+}
+.content{
+	width: 100%;
+	text-align: center;
+}
+.menu{
+	width: 90%;
+	height: 130px;
+	background-color: #CE0000;
+	margin: 0 auto;
+}
+.menu0{
+	width: 100%;
+	height: 50px;
+	background-color: #F3F4F5;
+	margin: 0 auto;
+}
+.search{
+	height: 40px;
+	width: 550px;
+	background-color: white;
+	border-radius: 5px;
+	margin-top: 0px;
+}
+.search input{
+	width: 480px;
+	height: 36px;
+	border: 0px;
+	padding-left: 20px;
+}
+.menu ul{
+	list-style: none;
+	margin-top: 0px;
+}
+.menu ul li{
+	display: inline-block;
+	padding: 20px;
+}
+.menu ul li a{
+	text-decoration: none;
+	font-size: 15px;
+	font-weight: bold;
+	color: white;
+}
+.menu ul li a img{
+	vertical-align: middle;
+}
+.menu0 ul li a{
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 15px;
+	color: black;
+}
+.menu0 ul li a img{
+	vertical-align: middle;
+}
+.menu0 ul{
+	list-style: none;
+}
+.menu0 ul li{
+	display: inline-block;
+}
+.menu0 ul.left{
+	text-decoration: none;
+	font-size: 15px;
+	font-weight: bold;
+	color: white;
+	float: left;
+}
+.menu0 ul.right{
+	text-decoration: none;
+	font-size: 15px;
+	font-weight: bold;
+	color: white;
+	float: right;
+}
+.menu0 ul li a img{
+	height: 32px;
+	width: 27px;
+}
+.search button img{
+	width: 25px;
+	height: 27px;
+	vertical-align: middle;
+}
+.content .body2{
+	width: 1190px;
+	height: 1400px;
+	margin: 0 auto;
+	background-color: white;
+	margin-top: 50px;
+}
+.body2 .left{
+	width: 25%;
+	height: 100%;
+	float: left;
+}
+.body2 .right{
+	width: 75%;
+	height: 100%;
+	float: right;
+}
+.body2 .right .up{
+	width: 100%;
+	height:55px;
+	border: outset;
+}
+.body2 .left .h3{
+	float: left;
+	margin-left: 13px; 
+	margin-top: 15px;
+	font-weight: 550!important;
+}
+.body2 .left .price .menu3{
+	width: 90%;
+	height: 33px;
+	background-color: #e6e6e6;
+	margin: 5px;
+	border: #e6e6e6;
+	cursor: pointer;
+}
+.body2 .left .thuonghieu {
+	width: 90%;
+	height: 500px;
+	margin-top: 20px;
+	margin-left: 13px;
+}
+.body2 .left .thuonghieu .menu5{
+	width: 45%;
+	height: 33px;
+	background-color: #e6e6e6;
+	margin: 5px;
+	border: #e6e6e6;
+	cursor: pointer;
+}
+.body2 .right .up .menu4{
+	height: 33px;
+	width: auto;
+	border-style: solid;
+	border-width: 1px;
+	cursor: pointer;
+	background-color: white;
+	font-size: 14px;
+	float: left;
+	margin: 10px;
+}
+.body2 .left .upl{
+	border-style: outset;
+}
+.down .grid{
+	display: grid;
+    grid-gap: 15px;
+    background: #fff;
+    padding: 15px;
+}
+.down .grid .img1{
+	cursor: pointer;
+}
